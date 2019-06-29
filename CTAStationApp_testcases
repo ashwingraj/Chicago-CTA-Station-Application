@@ -1,0 +1,1271 @@
+Test Case 1:
+UserInput: 
+Select option 1 from menu
+
+EXPECTED OUTPUT:
+
+Red Line
+Stations Names
+--------------
+Howard
+Jarvis
+Morse
+Loyola
+Granville
+Thorndale
+Bryn Mawr
+Berwyn
+Argyle
+Lawrence
+Wilson
+Sheridan
+Addison
+Belmont
+Fullerton
+North/Clybourn
+Clark/Division
+Chicago
+Grand
+Lake
+Monroe
+Jackson
+Harrison
+Roosevelt
+Cermak-Chinatown
+Sox-35th
+47th
+Garfield
+63rd
+69th
+79th
+87th
+95th/Dan Ryan
+
+
+Green Line
+Stations Names
+--------------
+Harlem
+Oak Park
+Ridgeland
+Austin
+Central
+Laramie
+Cicero
+Pulaski
+Conservatory-Central Park Drive
+Kenzie
+California
+Ashland
+Morgan
+Clinton
+Clark/Lake
+State/Lake
+Washington/Wabash
+Adams/Wabash
+Roosevelt
+Cermak-McCormick
+35th-Bronzeville-IIT
+Indiana
+43rd
+47th
+51st
+Garfield
+Halsted
+Ashland/63rd
+
+
+Blue Line
+Stations Names
+--------------
+O'Hare
+Rosemont
+Cumberland
+Harlem
+Jefferson Park
+Montrose
+Irving Park
+Addison
+Belmont
+Logan Square
+California
+Western
+Damen
+Division
+Chicago
+Grand
+Clark/Lake
+Washington
+Monroe
+Jackson
+LaSalle
+Clinton
+UIC-Halsted
+Racine
+Illinois Medical District
+Western
+Kedzie-Homan
+Pulaski
+Cicero
+Austin
+Oak Park
+Harlem
+Forest Park
+
+
+Brown Line
+Stations Names
+--------------
+Kimball
+Kedzie
+Francisco
+Rockwell
+Western
+Damen
+Montrose
+Irving Park
+Addison
+Paulina
+Southport
+Belmont
+Wellington
+Diversey
+Fullerton
+Armitage
+Sedgwick
+Chicago
+Merchandise Mart
+Washington/Wells
+Quincy
+LaSalle/Van Buren
+Harold Washington Library
+Adams/Wabash
+Washington/Wabash
+State/Lake
+Clark/Lake
+
+
+Purple Line
+Stations Names
+--------------
+Linden
+Central
+Noyes
+Foster
+Davis
+Dempster
+Main
+South Boulevard
+Howard
+Wilson
+Sheridan
+Belmont
+Wellington
+Diversey
+Fullerton
+Armitage
+Sedgwick
+Chicago
+Clark/Lake
+State/Lake
+Washington/Wabash
+Adams/Wabash
+Harold Washington Library
+LaSalle/Van Buren
+Quincy
+Washington/Wells
+Merchandise Mart
+
+
+Pink Line
+Stations Names
+--------------
+54th/Cermak
+Cicero
+Kostner
+Pulaski
+Central Park
+Kedzie
+California
+Western
+Damen
+18th
+Polk
+Ashland
+Morgan
+Clinton
+Clark/Lake
+State/Lake
+Washington/Wabash
+Adams/Wabash
+Harold Washington Library
+LaSalle/Van Buren
+Quincy
+Washington/Wells
+
+
+Orange Line
+Stations Names
+--------------
+Midway
+Pulaski
+Kedzie
+Western
+35th/Archer
+Ashland
+Halsted
+Roosevelt
+Harold Washington Library
+LaSalle/Van Buren
+Quincy
+Washington/Wells
+Clark/Lake
+State/Lake
+Washington/Wabash
+Adams/Wabash
+
+
+Yellow Line
+Stations Names
+--------------
+Dempster-Skokie
+Oakton-Skokie
+Howard
+
+
+ACTUAL OUTPUT: 
+
+Red Line
+Stations Names
+--------------
+Howard
+Jarvis
+Morse
+Loyola
+Granville
+Thorndale
+Bryn Mawr
+Berwyn
+Argyle
+Lawrence
+Wilson
+Sheridan
+Addison
+Belmont
+Fullerton
+North/Clybourn
+Clark/Division
+Chicago
+Grand
+Lake
+Monroe
+Jackson
+Harrison
+Roosevelt
+Cermak-Chinatown
+Sox-35th
+47th
+Garfield
+63rd
+69th
+79th
+87th
+95th/Dan Ryan
+
+
+Green Line
+Stations Names
+--------------
+Harlem
+Oak Park
+Ridgeland
+Austin
+Central
+Laramie
+Cicero
+Pulaski
+Conservatory-Central Park Drive
+Kenzie
+California
+Ashland
+Morgan
+Clinton
+Clark/Lake
+State/Lake
+Washington/Wabash
+Adams/Wabash
+Roosevelt
+Cermak-McCormick
+35th-Bronzeville-IIT
+Indiana
+43rd
+47th
+51st
+Garfield
+Halsted
+Ashland/63rd
+
+
+Blue Line
+Stations Names
+--------------
+O'Hare
+Rosemont
+Cumberland
+Harlem
+Jefferson Park
+Montrose
+Irving Park
+Addison
+Belmont
+Logan Square
+California
+Western
+Damen
+Division
+Chicago
+Grand
+Clark/Lake
+Washington
+Monroe
+Jackson
+LaSalle
+Clinton
+UIC-Halsted
+Racine
+Illinois Medical District
+Western
+Kedzie-Homan
+Pulaski
+Cicero
+Austin
+Oak Park
+Harlem
+Forest Park
+
+
+Brown Line
+Stations Names
+--------------
+Kimball
+Kedzie
+Francisco
+Rockwell
+Western
+Damen
+Montrose
+Irving Park
+Addison
+Paulina
+Southport
+Belmont
+Wellington
+Diversey
+Fullerton
+Armitage
+Sedgwick
+Chicago
+Merchandise Mart
+Washington/Wells
+Quincy
+LaSalle/Van Buren
+Harold Washington Library
+Adams/Wabash
+Washington/Wabash
+State/Lake
+Clark/Lake
+
+
+Purple Line
+Stations Names
+--------------
+Linden
+Central
+Noyes
+Foster
+Davis
+Dempster
+Main
+South Boulevard
+Howard
+Wilson
+Sheridan
+Belmont
+Wellington
+Diversey
+Fullerton
+Armitage
+Sedgwick
+Chicago
+Clark/Lake
+State/Lake
+Washington/Wabash
+Adams/Wabash
+Harold Washington Library
+LaSalle/Van Buren
+Quincy
+Washington/Wells
+Merchandise Mart
+
+
+Pink Line
+Stations Names
+--------------
+54th/Cermak
+Cicero
+Kostner
+Pulaski
+Central Park
+Kedzie
+California
+Western
+Damen
+18th
+Polk
+Ashland
+Morgan
+Clinton
+Clark/Lake
+State/Lake
+Washington/Wabash
+Adams/Wabash
+Harold Washington Library
+LaSalle/Van Buren
+Quincy
+Washington/Wells
+
+
+Orange Line
+Stations Names
+--------------
+Midway
+Pulaski
+Kedzie
+Western
+35th/Archer
+Ashland
+Halsted
+Roosevelt
+Harold Washington Library
+LaSalle/Van Buren
+Quincy
+Washington/Wells
+Clark/Lake
+State/Lake
+Washington/Wabash
+Adams/Wabash
+
+
+Yellow Line
+Stations Names
+--------------
+Dempster-Skokie
+Oakton-Skokie
+Howard
+
+
+
+Test Case 2a 
+UserInput: Select option 2 from menu 
+UserInput: (1, 'Drake', 41.881832, -87.623177, 'elevated', True, (Chicago, Roosevelt)
+
+EXPECTED OUTPUT:
+Enter the route the station is on:
+-----------------------------------
+'0' for Red Line
+'1' for Green Line 
+'2' for Blue Line 
+'3' for Brown Line 
+'4' for Purple Line 
+'5' for Pink Line 
+'6' for Orange Line 
+'7' for Yellow Line 
+1
+Enter Station Name: 
+DRAKE
+Enter Latitude: 
+41.881832
+Enter Longitude: 
+-87.623177
+Enter Location: 
+elevated
+Enter Wheelchair Accessibility (true/false): 
+true
+Enter the name of the station that will be AFTER this addition: 
+Chicago
+This station does not exist on this CTA Route
+Enter the name of the station that will be AFTER this addition: 
+Roosevelt
+Completed!
+
+ACTUAL OUTPUT:
+Enter the route the station is on:
+-----------------------------------
+'0' for Red Line
+'1' for Green Line 
+'2' for Blue Line 
+'3' for Brown Line 
+'4' for Purple Line 
+'5' for Pink Line 
+'6' for Orange Line 
+'7' for Yellow Line 
+1
+Enter Station Name: 
+DRAKE
+Enter Latitude: 
+41.881832
+Enter Longitude: 
+-87.623177
+Enter Location: 
+elevated
+Enter Wheelchair Accessibility (true/false): 
+true
+Enter the name of the station that will be AFTER this addition: 
+Chicago
+This station does not exist on this CTA Route
+Enter the name of the station that will be AFTER this addition: 
+Roosevelt
+Completed!
+
+Test Case 2b 
+UserInput: Select option 2 from menu 
+UserInput: (1, 'UChicago', 41.789722, -87.599724, 'elevated', True, Roosevelt)
+
+EXEPCTED OUTPUT:
+Enter the route the station is on:
+-----------------------------------
+'0' for Red Line
+'1' for Green Line 
+'2' for Blue Line 
+'3' for Brown Line 
+'4' for Purple Line 
+'5' for Pink Line 
+'6' for Orange Line 
+'7' for Yellow Line 
+1
+Enter Station Name: 
+UChicago
+Enter Latitude: 
+41.789722
+Enter Longitude: 
+-87.599724
+Enter Location: 
+elevated
+Enter Wheelchair Accessibility (true/false): 
+True
+Enter the name of the station that will be AFTER this addition: 
+Roosevelt
+Completed!
+
+ACTUAL OUTPUT:
+EXEPCTED OUTPUT:
+Enter the route the station is on:
+-----------------------------------
+'0' for Red Line
+'1' for Green Line 
+'2' for Blue Line 
+'3' for Brown Line 
+'4' for Purple Line 
+'5' for Pink Line 
+'6' for Orange Line 
+'7' for Yellow Line 
+1
+Enter Station Name: 
+UChicago
+Enter Latitude: 
+41.789722
+Enter Longitude: 
+-87.599724
+Enter Location: 
+elevated
+Enter Wheelchair Accessibility (true/false): 
+True
+Enter the name of the station that will be AFTER this addition: 
+Roosevelt
+Completed!
+
+
+Test Case 2c 
+UserInput: Select option 2 from menu 
+UserInput: (RedLine, 0, 'Howard', 42.019063, -870.672892, -87.672892 'embankment', True, Harlem, Roosevelt)
+
+EXEPCTED OUTPUT:
+Enter the route the station is on:
+-----------------------------------
+'0' for Red Line
+'1' for Green Line 
+'2' for Blue Line 
+'3' for Brown Line 
+'4' for Purple Line 
+'5' for Pink Line 
+'6' for Orange Line 
+'7' for Yellow Line 
+RedLine
+Please enter a valid route number.
+ 
+Enter the route the station is on:
+-----------------------------------
+'0' for Red Line
+'1' for Green Line 
+'2' for Blue Line 
+'3' for Brown Line 
+'4' for Purple Line 
+'5' for Pink Line 
+'6' for Orange Line 
+'7' for Yellow Line 
+0
+Enter Station Name: 
+Howard
+Enter Latitude: 
+42.019063
+Enter Longitude: 
+-870.672892
+Please enter a valid number between -180 and 180. 
+Enter Longitude: 
+-87.672892 
+Enter Location: 
+embankment
+Enter Wheelchair Accessibility (true/false): 
+true
+Enter the name of the station that will be AFTER this addition: 
+Harlem
+This station does not exist on this CTA Route
+Enter the name of the station that will be AFTER this addition: 
+Roosevelt
+Completed!
+Welcome, to the CTA Station App! Please enter the number of your choice: 
+
+ACTUAL OUTPUT:
+
+Enter the route the station is on:
+-----------------------------------
+'0' for Red Line
+'1' for Green Line 
+'2' for Blue Line 
+'3' for Brown Line 
+'4' for Purple Line 
+'5' for Pink Line 
+'6' for Orange Line 
+'7' for Yellow Line 
+RedLine
+Please enter a valid route number.
+ 
+Enter the route the station is on:
+-----------------------------------
+'0' for Red Line
+'1' for Green Line 
+'2' for Blue Line 
+'3' for Brown Line 
+'4' for Purple Line 
+'5' for Pink Line 
+'6' for Orange Line 
+'7' for Yellow Line 
+0
+Enter Station Name: 
+Howard
+Enter Latitude: 
+42.019063
+Enter Longitude: 
+-870.672892
+Please enter a valid number between -180 and 180. 
+Enter Longitude: 
+-87.672892 
+Enter Location: 
+embankment
+Enter Wheelchair Accessibility (true/false): 
+true
+Enter the name of the station that will be AFTER this addition: 
+Harlem
+This station does not exist on this CTA Route
+Enter the name of the station that will be AFTER this addition: 
+Roosevelt
+Completed!
+Welcome, to the CTA Station App! Please enter the number of your choice: 
+
+
+Test Case 3a
+UserInput: Select option 3 from menu 
+UserInput: ('Red Line', 'Harlem', 'Chicago', 'Chicago Changed', 'embankment')
+
+EXPECTED OUTPUT:
+
+0
+Enter Station Name: 
+Harlem
+This station does not exist on this CTA Route
+Enter Station Name: 
+Chicago
+Current Station Information:
+---------------------------
+Name: Chicago
+Latitude/Longitude: (41.896671, -87.628176)
+Location: subway
+Wheelchair: true
+This station exists on the: 
+Red Line
+
+---------------------------
+The program will now prompt you for changes to be made to the station.
+If you would NOT like to change the indicated field of information, 
+enter 'nc' to indicate no change.
+ 
+Enter Station Name: 
+Chicago Changed
+Enter Latitude: 
+nc
+Enter Longitude: 
+nc
+Enter Location: 
+embankment
+Enter Wheelchair Accessibility (true/false): 
+nc
+Updated Information of Station:
+-----------------------
+Name: Chicago Changed
+Latitude/Longitude: (41.896671, -87.628176)
+Location: embankment
+Wheelchair: true
+This station exists on the: 
+Red Line
+
+-----------------------
+
+ACTUAL OUTPUT 
+
+0
+Enter Station Name: 
+Harlem
+This station does not exist on this CTA Route
+Enter Station Name: 
+Chicago
+Current Station Information:
+---------------------------
+Name: Chicago
+Latitude/Longitude: (41.896671, -87.628176)
+Location: subway
+Wheelchair: true
+This station exists on the: 
+Red Line
+
+---------------------------
+The program will now prompt you for changes to be made to the station.
+If you would NOT like to change the indicated field of information, 
+enter 'nc' to indicate no change.
+ 
+Enter Station Name: 
+Chicago Changed
+Enter Latitude: 
+nc
+Enter Longitude: 
+nc
+Enter Location: 
+embankment
+Enter Wheelchair Accessibility (true/false): 
+nc
+Updated Information of Station:
+-----------------------
+Name: Chicago Changed
+Latitude/Longitude: (41.896671, -87.628176)
+Location: embankment
+Wheelchair: true
+This station exists on the: 
+Red Line
+
+
+
+-----------------------
+
+Test Case 3c
+UserInput: Select option 3 from menu 
+UserInput: ('1', 'Roosevelt', 'Wheelchair', 'False')
+
+EXPECTED OUTPUT 
+
+1
+Enter Station Name: 
+Roosevelt
+Current Station Information:
+---------------------------
+Name: Roosevelt
+Latitude/Longitude: (41.867368, -87.627402)
+Location: elevated/subway
+Wheelchair: true
+This station exists on the: 
+Red Line
+Green Line
+Orange Line
+
+---------------------------
+The program will now prompt you for changes to be made to the station.
+If you would NOT like to change the indicated field of information, 
+enter 'nc' to indicate no change.
+ 
+Enter Station Name: 
+nc
+Enter Latitude: 
+nc
+Enter Longitude: 
+nc
+Enter Location: 
+nc
+Enter Wheelchair Accessibility (true/false): 
+False
+Please enter either 'true' or 'false' or 'nc'
+Enter Wheelchair Accessibility (true/false): 
+false
+Updated Information of Station:
+-----------------------
+Name: Roosevelt
+Latitude/Longitude: (41.867368, -87.627402)
+Location: elevated/subway
+Wheelchair: false
+This station exists on the: 
+Red Line
+Green Line
+Orange Line
+
+-----------------------
+
+ACTUAL OUTPUT 
+
+EXPECTED OUTPUT 
+
+1
+Enter Station Name: 
+Roosevelt
+Current Station Information:
+---------------------------
+Name: Roosevelt
+Latitude/Longitude: (41.867368, -87.627402)
+Location: elevated/subway
+Wheelchair: true
+This station exists on the: 
+Red Line
+Green Line
+Orange Line
+
+---------------------------
+The program will now prompt you for changes to be made to the station.
+If you would NOT like to change the indicated field of information, 
+enter 'nc' to indicate no change.
+ 
+Enter Station Name: 
+nc
+Enter Latitude: 
+nc
+Enter Longitude: 
+nc
+Enter Location: 
+nc
+Enter Wheelchair Accessibility (true/false): 
+False
+Please enter either 'true' or 'false' or 'nc'
+Enter Wheelchair Accessibility (true/false): 
+false
+Updated Information of Station:
+-----------------------
+Name: Roosevelt
+Latitude/Longitude: (41.867368, -87.627402)
+Location: elevated/subway
+Wheelchair: false
+This station exists on the: 
+Red Line
+Green Line
+Orange Line
+
+-----------------------
+
+Test Case 4a
+UserInput: Select option 4 from menu 
+UserInput: ('Red Line', 'Harlem', Roosevelt)
+
+EXPECTED OUTPUT:
+
+0
+Enter Station Name: 
+Harlem
+This station does not exist on this CTA Route
+Enter Station Name: 
+Roosevelt
+Station Information:
+-----------------------
+Name: Roosevelt
+Latitude/Longitude: (41.867368, -87.627402)
+Location: elevated/subway
+Wheelchair: false
+This station exists on the: 
+Red Line
+Green Line
+Orange Line
+
+-----------------------
+Are you sure you'd like to delete this station from the route? (Enter Yes or No): 
+y
+The Roosevelt station has been removed from the Red Line
+ 
+
+ACTUAL OUTPUT 
+
+0
+Enter Station Name: 
+Harlem
+This station does not exist on this CTA Route
+Enter Station Name: 
+Roosevelt
+Station Information:
+-----------------------
+Name: Roosevelt
+Latitude/Longitude: (41.867368, -87.627402)
+Location: elevated/subway
+Wheelchair: false
+This station exists on the: 
+Red Line
+Green Line
+Orange Line
+
+-----------------------
+Are you sure you'd like to delete this station from the route? (Enter Yes or No): 
+y
+The Roosevelt station has been removed from the Red Line
+ 
+
+Test Case 5a
+UserInput: Select option 5 from menu 
+UserInput: 'Chicago'
+
+EXPECTED OUTPUT:
+
+Name: Chicago
+Latitude/Longitude: (41.896111, -87.655278)
+Location: subway
+Wheelchair: false
+This station exists on the: 
+Blue Line
+
+Name: Chicago
+Latitude/Longitude: (41.896467, -87.635833)
+Location: elevated
+Wheelchair: true
+This station exists on the: 
+Brown Line
+Purple Line
+
+ACTUAL OUTPUT: 
+
+Name: Chicago
+Latitude/Longitude: (41.896111, -87.655278)
+Location: subway
+Wheelchair: false
+This station exists on the: 
+Blue Line
+
+Name: Chicago
+Latitude/Longitude: (41.896467, -87.635833)
+Location: elevated
+Wheelchair: true
+This station exists on the: 
+Brown Line
+Purple Line
+
+Test Case 5b
+UserInput: Select option 5 from menu 
+UserInput: 'Roosevelt'
+
+EXPECTED OUTPUT: 
+
+Name: Roosevelt
+Latitude/Longitude: (41.867368, -87.627402)
+Location: elevated/subway
+Wheelchair: false
+This station exists on the: 
+Red Line
+Green Line
+Orange Line
+Green Line
+
+ACTUAL OUTPUT:
+
+Name: Roosevelt
+Latitude/Longitude: (41.867368, -87.627402)
+Location: elevated/subway
+Wheelchair: false
+This station exists on the: 
+Red Line
+Green Line
+Orange Line
+
+
+
+Test Case 6a 
+UserInput: Select option 6 from menu 
+UserInput: (38.889931, -77.009003)
+
+EXPECTED OUTPUT:
+
+Nearest Station
+---------------
+95th/Dan Ryan
+
+This station exists on the following routes:
+[Red Line]
+
+ACTUAL OUTPUT:
+
+Nearest Station
+---------------
+95th/Dan Ryan
+
+This station exists on the following routes:
+[Red Line]
+
+Test Case 6b 
+UserInput: Select option 6 from menu 
+UserInput: (90000, 41.7886, 90000, -87.5987)
+
+EXPECTED OUTPUT:
+
+6
+Enter Latitude: 
+90000
+Please enter a valid number between -90 and 90. 
+Enter Latitude: 
+41.7886
+Enter Longitude: 
+90000
+Please enter a valid number between -180 and 180. 
+Enter Longitude: 
+-87.5987
+
+Nearest Station
+---------------
+Garfield
+
+This station exists on the following routes:
+[Red Line, Green Line]
+
+ACTUAL OUTPUT:
+
+6
+Enter Latitude: 
+90000
+Please enter a valid number between -90 and 90. 
+Enter Latitude: 
+41.7886
+Enter Longitude: 
+90000
+Please enter a valid number between -180 and 180. 
+Enter Longitude: 
+-87.5987
+
+Nearest Station
+---------------
+Garfield
+
+This station exists on the following routes:
+[Red Line, Green Line]
+
+
+Test Case 7a
+UserInput: Select option 7 from menu 
+UserInput: ('35th Bronzeville/IIT', 'Roosevelt')
+
+EXPECTED OUTPUT:
+
+CTA Green Line Route
+from 35th-Bronzeville-IIT to Roosevelt
+----------------
+35th-Bronzeville-IIT
+Cermak-McCormick
+Roosevelt
+
+ACTUAL OUTPUT:
+
+CTA Green Line Route
+from 35th-Bronzeville-IIT to Roosevelt
+----------------
+35th-Bronzeville-IIT
+Cermak-McCormick
+Roosevelt
+
+
+Test Case 7a
+UserInput: Select option 7 from menu 
+UserInput: ('Roosevelt', 'O'Hare')
+
+EXPECTED OUTPUT:
+
+CTA Route
+from Roosevelt to O'Hare
+----------------
+ 
+-Green Line-
+Roosevelt
+Adams/Wabash
+Washington/Wabash
+State/Lake
+Clark/Lake
+ 
+transfer to Blue Line at Clark/Lake
+ 
+-Blue Line-
+Clark/Lake
+Grand
+Chicago
+Division
+Damen
+Western
+California
+Logan Square
+Belmont
+Addison
+Irving Park
+Montrose
+Jefferson Park
+Harlem
+Cumberland
+Rosemont
+O'Hare
+ 
+Happy Trails!
+
+
+ACTUAL OUTPUT:
+
+CTA Route
+from Roosevelt to O'Hare
+----------------
+ 
+-Green Line-
+Roosevelt
+Adams/Wabash
+Washington/Wabash
+State/Lake
+Clark/Lake
+ 
+transfer to Blue Line at Clark/Lake
+ 
+-Blue Line-
+Clark/Lake
+Grand
+Chicago
+Division
+Damen
+Western
+California
+Logan Square
+Belmont
+Addison
+Irving Park
+Montrose
+Jefferson Park
+Harlem
+Cumberland
+Rosemont
+O'Hare
+ 
+Happy Trails!
+
+Test Case 7a
+UserInput: Select option 7 from menu 
+UserInput: ('35th Bronzeville/IIT', 'Oakton-Skokie')
+
+EXPECTED OUTPUT:
+
+CTA Route
+from 35th-Bronzeville-IIT to Oakton-Skokie
+----------------
+ 
+-Green Line-
+35th-Bronzeville-IIT
+Cermak-McCormick
+Roosevelt
+Adams/Wabash
+Washington/Wabash
+State/Lake
+Clark/Lake
+ 
+transfer to Purple Line at Clark/Lake
+ 
+ 
+-Purple Line-
+Clark/Lake
+Chicago
+Sedgwick
+Armitage
+Fullerton
+Diversey
+Wellington
+Belmont
+Sheridan
+Wilson
+Howard
+ 
+transfer to Yellow Line at Howard
+ 
+ 
+-Yellow Line-
+Howard
+Oakton-Skokie
+ 
+Happy Trails!
+
+
+ACTUAL OUTPUT 
+
+CTA Route
+from 35th-Bronzeville-IIT to Oakton-Skokie
+----------------
+ 
+-Green Line-
+35th-Bronzeville-IIT
+Cermak-McCormick
+Roosevelt
+Adams/Wabash
+Washington/Wabash
+State/Lake
+Clark/Lake
+ 
+transfer to Purple Line at Clark/Lake
+ 
+ 
+-Purple Line-
+Clark/Lake
+Chicago
+Sedgwick
+Armitage
+Fullerton
+Diversey
+Wellington
+Belmont
+Sheridan
+Wilson
+Howard
+ 
+transfer to Yellow Line at Howard
+ 
+ 
+-Yellow Line-
+Howard
+Oakton-Skokie
+ 
+Happy Trails!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

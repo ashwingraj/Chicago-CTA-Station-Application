@@ -1,0 +1,133 @@
+README - CTAStationApp 
+
+Ashwin G. Raj 
+CS 201 Course Project 
+
+CTA Station Application 
+
+OBJECTIVE: The objective of this application is to provide people with an intuitive and efficient way to interact with and understand the Chicago 'L' system. 
+
+USER INTERFACE: The User Interface for the application will consist of a menu guiding the different courses of action available to the user.The options and their intended purpose are listed below as follows:
+
+1. View All Stations on the CTA Transit System by their routes
+	The user will be able to see a list of all stations for each CTA Route 
+	(Red, Green, Blue, Brown, Pink, Purple, Yellow, Orange)
+
+2. Create a new station 
+	The user will be able to add a station to an existing CTA Route with the following information: Name, neighboring stations, location, Latitude and Longitude, Wheelchair Accessibility, and CTA Route.  
+
+3. Modify an existing station 
+	The user will be able to modify the information of an existing station on a given CTA Route.
+
+4. Remove a station 
+	The user will be able to remove a station from a CTA Route given the station's name and the CTA route
+
+5. Search Station 
+	The user will be able to find more information for a given CTA Station such as location, latitude longitude, wheelchair accessibility, and CTA route with just the station name. If the station exists on multiple routes, they will all be shown. 
+
+6. Find the nearest Station 
+	The user will be able to find the nearest CTA station given a latitude and longitude input. 
+
+7. Generate travel itinerary 
+	The user will be shown the most efficient route through the Chicago 'L' system with the user inputting desired start and end stations. 
+
+8. Exit 
+	The user will be able to exit the application. 
+
+
+The above consists of the different tasks that the user can carry out within the app. The backend of the application consists of three main object classes (CTAStation, CTARoute, GeoLocation - their attributes are shown in the UML Diagram) and one main application class. There are also eight different classes within the package that were created to sort the different lists of CTAStations in order geographically. 
+
+
+
+Within the application class are the following methods and their corresponding functions:
+	
+	1. readCSV - reads in the csv file of all CTA Station Stops and stores them into corresponding objects and ArrayLists. A CTA Station object corresponds to one individual station. Each CTARoute object (Red Line, Green Line, etc.) is an ArrayList of CTAStation objects in that route and the corresponinding name of the route. The CTATransitSystem is an ArrayList of the 8 different CTARoutes. 
+
+	2. displayMenu - function to display the home menu 
+
+	3. displayRouteChoice - function to display the route choice menu for users to select the route of interest 
+
+	4. printCTAStationNames - Prints all the CTAStations for each Route in the CTATransitSystem 
+
+	5. createStation - creates a new station to be added to the user-specified route. Prompts user for all fields of information. 
+
+	6. modifyStation - modifies the information of the user-specified Station. All information can be modified for existing stations.
+
+	7. findIndex - finds the index of a given station on a route 
+
+	8. removeStation - removes a station from a route 
+
+	9. stationCheck - checks to see if a station is on a given route 
+
+	10. moreInformation - prompts user for a station name and displays information corresponding to it, even if on multiple routes 
+
+	11. findNearest - finds nearest station given latitude and longitude 
+
+	12. stationRoutes - finds all the routes a given station is on. If it exists on only one route, that route is returned
+
+	13. getStartingStation  - prompt user for starting station
+
+	14. getEndingStation - prompt user for ending station
+
+	15. findPath - function to find the path between two given stations (broked into smaller functions)
+
+	16. noTransferPath - if the two stations exists on the same route, this function displays the path between the two 
+
+	17. oneTransferPath - if the path between the two stations requires one transfer, this function displays it 
+
+	18. twoTransferPath - if the path between the two stations requires two transfers, this function displays it
+
+	19. printPath - prints the path of stations between a starting and ending station on a route 
+
+	20. sameRouteCheck - checks to see if the two stations are on the same route 
+
+	21. findCTARouteObject - returns the CTARoute object a station is on given the name of the station in string format 
+
+	22. intersectionCheck - Checks to see if the two different routes for the starting and ending station share a common station for transfers
+
+	23. findIntersectionStation - Finds the route connecting two different routes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
